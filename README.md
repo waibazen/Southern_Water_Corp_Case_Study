@@ -1,4 +1,4 @@
-# Southern_Water_Corp_Case_Study
+# Southern_Water_Corp_Case_Study:Guided mini project
 This is the guided case study a part of course work from Springboard Data Analytics Career Track 
 Goal of this Case Study: understand the key drivers of anamoly happening within the Desalination unit and build a model that can predict pump failure.
 
@@ -7,4 +7,4 @@ Goal of this Case Study: understand the key drivers of anamoly happening within 
 <li>Engineered and analysed dataset feature columns like Correlation matrix,Outliers,Quartiles using Descriptive Statistics methods and transformation of fields .</li>
 <li>Optimized Linear Regression model with OLS evaluation function to reach the best model.</li>
 
-This is the repo for my first capstone project and it falls under "Anamoly Detection".From Sep 2019 to April 2020 I completed a number of projects as part of the Springboard Data Analytics Track.
+This is the repo of Case Study and it falls under "Anamoly Detection".From Sep 2019 to April 2020 I completed a number of  mini projects as part of the Springboard Data Analytics Track.
